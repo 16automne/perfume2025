@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/perfume2025/static/css/main.e5e463e9.css",
+    "main.js": "/perfume2025/static/js/main.2ee5b278.js",
+    "index.html": "/perfume2025/index.html",
+    "main.e5e463e9.css.map": "/perfume2025/static/css/main.e5e463e9.css.map",
+    "main.2ee5b278.js.map": "/perfume2025/static/js/main.2ee5b278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e463e9.css",
+    "static/js/main.2ee5b278.js"
+  ]
+}
